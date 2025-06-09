@@ -5,7 +5,8 @@
 
 - 👋 Hi, I’m Haseeb
 - 👀 Interested in Web Development, AI & Data Science  
-- 🌱 Currently learning AI/ML  
+- 🌱 Currently learning AI/ML
+- 🎓 Studying Computer Science at FAST NUCES 
 - 📫 Reach me at: [Email](mailto:mhaseeb786786@outlook.com)
 
 - ⚡Fun fact: I treat semicolons like optional punctuations
