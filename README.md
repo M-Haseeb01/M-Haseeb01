@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding..;Welcome+to+My+Profile+!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile+!;&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,6 @@
 - 🌱 Currently learning AI/ML
 - 🎓 CS @ FAST NUCES 
 - 📫 Reach me at: [Email](mailto:mhaseeb786786@outlook.com)
-
 - ⚡Fun fact: I treat semicolons like optional punctuations
 
 
