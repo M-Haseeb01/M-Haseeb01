@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3p5MmtneHlpdXhqZjdjNnhnY2t5bHR1MGZqMWF3dHRuM2MyeTMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360px" />
-
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3p5MmtneHlpdXhqZjdjNnhnY2t5bHR1MGZqMWF3dHRuM2MyeTMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220px" height="180px" />
 
 
 
